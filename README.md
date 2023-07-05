@@ -12,3 +12,6 @@ StarlightEye captures stunning high-resolution images and videos with improved l
 
 ## Support
 For questions, issues, or suggestions, please open an issue in the [GitHub repository](https://github.com/will127534/StarlightEye/issues)
+
+## Schematic
+![](/img/sch.jpg)
