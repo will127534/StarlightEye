@@ -1,5 +1,9 @@
 # StarlightEye: OpenSource IMX585 Camera Board for Raspberry Pi
 ![](/img/PCBA.jpg)
+
+## (02/10/2024)Notes: The design is using the 3.3V input for the 3.3V analog, which causes issue on RPI5, I'm working on a new revision 
+
+
 ## Introduction
 Welcome to the **StarlightEye** project, an open-source camera board designed for Raspberry Pi Compute Module 4 boards using the IMX585. This project aims to provide a high-quality, affordable, and accessible camera module for advanced Raspberry Pi projects. The board is designed using KiCad v6, a popular open-source electronics design automation (EDA) software.
 
