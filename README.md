@@ -17,7 +17,7 @@ StarlightEye captures stunning high-resolution images and videos with improved l
 ## Notes
 * The latest v1.6 design requires additional 5V power input to function
 * Gerber and CPL file for JLCPCB is under /Gerber
-* Bom for interactive bom html [provided by InteractiveHtmlBom
+* [Interactive BOM](https://htmlpreview.github.io/?https://github.com/will127534/StarlightEye/blob/main/bom/ibom.html) [(provided by InteractiveHtmlBom)
 ](https://github.com/openscopeproject/InteractiveHtmlBom) and JLCPCB BOM under /bom
 * Source Code for CH32V003 based I2C controlled IR Filter Switch and Python code on RPI under /software
 
