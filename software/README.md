@@ -3,8 +3,8 @@
 ## Introduction
 The I2C IR filter switch is based on CH32V003 acted as a I2C device, by default the I2C address is 0x34 and by writing 0x01 to enable IR filter or writing 0x00 to disable IR filter. The I2C connection is shared with the CMOS sensor on the StarlightEye.
 
-## Install Python tool on RPI
-To install the Python code to your RPI, run the following cmd  
+## Install Python script on RPI
+To install the script to your RPI, run the following cmd  
 ```
 sudo wget https://raw.githubusercontent.com/will127534/StarlightEye/master/software/IRFilter -O /usr/local/bin/IRFilter && sudo chmod +x /usr/local/bin/IRFilter
 ```
