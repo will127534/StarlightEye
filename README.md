@@ -13,6 +13,7 @@ StarlightEye captures stunning high-resolution images and videos with improved l
 * Integrated IR filter switch control via I2C based on CH32V003
 * Integrated TMP117 temperature sensor
 * Compatible with Raspberry Pi5 and Raspberry Pi Compute Module 4 boards with a 22-pin FPC connector and 4-lane MIPI-CSI (same pinout as Raspberry Pi Compute Module 4 IO Board)
+* Limited amount on [Tindle](https://www.tindie.com/products/34093/) for sell
 
 ## Notes
 * The latest v1.6 design requires additional 5V power input to function
