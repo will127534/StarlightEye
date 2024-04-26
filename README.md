@@ -13,11 +13,12 @@ StarlightEye captures stunning high-resolution images and videos with improved l
 * Integrated IR filter switch control via I2C based on CH32V003
 * Integrated TMP117 temperature sensor
 * Compatible with Raspberry Pi5 and Raspberry Pi Compute Module 4 boards with a 22-pin FPC connector and 4-lane MIPI-CSI (same pinout as Raspberry Pi Compute Module 4 IO Board)
+* Limited amount on [Tindle](https://www.tindie.com/products/34093/) for sell
 
 ## Notes
 * The latest v1.6 design requires additional 5V power input to function
 * Gerber and CPL file for JLCPCB is under /Gerber
-* Bom for interactive bom html [provided by InteractiveHtmlBom
+* [Interactive BOM](https://htmlpreview.github.io/?https://github.com/will127534/StarlightEye/blob/main/bom/ibom.html) [(provided by InteractiveHtmlBom)
 ](https://github.com/openscopeproject/InteractiveHtmlBom) and JLCPCB BOM under /bom
 * Source Code for CH32V003 based I2C controlled IR Filter Switch and Python code on RPI under /software
 
