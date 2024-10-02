@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*
-G04 #@! TF.CreationDate,2024-03-06T21:09:06-08:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*
+G04 #@! TF.CreationDate,2024-09-15T19:08:50-07:00*
 G04 #@! TF.ProjectId,IMX585_MIPI_Breakout_v3,494d5835-3835-45f4-9d49-50495f427265,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Bot*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.9)) date 2024-03-06 21:09:06*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-15 19:08:50*
 %MOMM*%
 %LPD*%
 G01*
