@@ -1,6 +1,10 @@
 # StarlightEye: OpenSource IMX585 Camera Board for Raspberry Pi
 ![](/img/PCBA.jpg)
 
+## Ver 2.0 Changes
+Mainly changed the power tree so now it does not require an external 5V input but the board can take the 3.3V from FPC directly, there is a step-up converter that will step it up to 3.6V which is powering both IR filter switch (When used) and 3.3V analog LDO/1.8V Digital LDO input. By doing so the board size can finally shrink down to a perfect 39mm square which also matches the latest OneInchEye.  
+
+The only down side is that the Step-Up convter I'm using here (TPSM83100) is expensive AF, I was going to pick TPSM81033 that is both cheaper and better but I have been waiting it to go on the market for four month now, I don't know when TI will actually get them ship to Mouser so for now I'm stuck with TPSM83100.  
 
 ## Introduction
 Welcome to the **StarlightEye** project, an open-source camera board designed for Raspberry Pi Compute Module 4 boards using the IMX585. This project aims to provide a high-quality, affordable, and accessible camera module for advanced Raspberry Pi projects. The board is designed using KiCad v6, a popular open-source electronics design automation (EDA) software.
@@ -18,7 +22,6 @@ Also see [Quick Start Guide](https://github.com/will127534/StarlightEye/wiki/Sta
 * Limited amount on [Tindle](https://www.tindie.com/products/34093/) for sell
 
 ## Notes
-* The latest v1.6 design requires additional 5V power input to function
 * Gerber and CPL file for JLCPCB is under /Gerber
 * [Interactive BOM](https://htmlpreview.github.io/?https://github.com/will127534/StarlightEye/blob/main/bom/ibom.html) [(provided by InteractiveHtmlBom)
 ](https://github.com/openscopeproject/InteractiveHtmlBom) and JLCPCB BOM under /bom
