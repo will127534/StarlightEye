@@ -1,7 +1,7 @@
 # StarlightEye: OpenSource IMX585 Camera Board for Raspberry Pi
 ![](/img/PCBA.jpg)
 
-## Ver 2.0 Changes
+## Version 2.0 Changes
 Mainly changed the power tree so now it does not require an external 5V input but the board can take the 3.3V from FPC directly, there is a step-up converter that will step it up to 3.6V which is powering both IR filter switch (When used) and 3.3V analog LDO/1.8V Digital LDO input. By doing so the board size can finally shrink down to a perfect 39mm square which also matches the latest OneInchEye.  
 
 The only down side is that the Step-Up convter I'm using here (TPSM83100) is expensive AF, I was going to pick TPSM81033 that is both cheaper and better but I have been waiting it to go on the market for four month now, I don't know when TI will actually get them ship to Mouser so for now I'm stuck with TPSM83100.  
