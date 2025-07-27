@@ -6,7 +6,7 @@ Mainly changed the power tree so now it does not require an external 5V input bu
 
 The only down side is that the Step-Up convter I'm using here (TPSM83100) is expensive AF, I was going to pick TPSM81033 that is both cheaper and better but I have been waiting it to go on the market for four month now, I don't know when TI will actually get them ship to Mouser so for now I'm stuck with TPSM83100.  
 
-![_DSC9428-2](https://github.com/user-attachments/assets/94c4480d-2039-4650-aa11-9b10b09f10c7)
+![_DSC9428](https://github.com/user-attachments/assets/112f0e2d-efb7-4487-a736-bfdcbb5bffe2)
 
 
 ## Introduction
