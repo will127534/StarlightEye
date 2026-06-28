@@ -22,7 +22,7 @@ Also see [Quick Start Guide](https://github.com/will127534/StarlightEye/wiki/Sta
 * Integrated IR filter switch control via I2C based on CH32V003
 * Integrated TMP117 temperature sensor
 * Compatible with Raspberry Pi5 and Raspberry Pi Compute Module 4 boards with a 22-pin FPC connector and 4-lane MIPI-CSI (same pinout as Raspberry Pi Compute Module 4 IO Board)
-* Limited amount on [Tindle](https://www.tindie.com/products/34093/) for sell
+* Limited amount on [https://shop.willwhang.dev/](https://shop.willwhang.dev/) for sell
 
 ## Notes
 * Gerber and CPL file for JLCPCB is under /Gerber
